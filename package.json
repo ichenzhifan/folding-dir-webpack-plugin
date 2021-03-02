@@ -1,0 +1,16 @@
+{
+  "name": "folding-dir-webpack-plugin",
+  "version": "1.0.0",
+  "description": "folding directory",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "v-denche",
+  "license": "MIT",
+  "repository": "https://github.com/ichenzhifan/folding-dir-webpack-plugin.git"
+}
